@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-9i4mb1.basilsolutions.it/sitemap.xml
